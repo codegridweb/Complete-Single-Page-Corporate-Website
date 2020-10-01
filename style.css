@@ -479,8 +479,8 @@ textarea:focus {
 }
 
 .footer p {
-      color: grey;
-      font-weight: lighter;
+      color: grey !important;
+      font-weight: light !important;
 }
 
 .footer li {
